@@ -24,7 +24,7 @@ Essa escolha permite realizar o fine-tuning e a geração de respostas de forma 
 
 ## 🗂️ Estrutura do Projeto
 
-├── LF-Amazon-1.3M/ # Dataset (trn.json) 🔗 [Acesse em:](https://drive.google.com/file/d/12zH4mL2RX8iSvH0VCNnd3QxO4DzuHWnK/view) 
+├── LF-Amazon-1.3M/ # Dataset (trn.json) 🔗 [LF-Amazon-1.3M](https://drive.google.com/file/d/12zH4mL2RX8iSvH0VCNnd3QxO4DzuHWnK/view) 
 
 ├── fine_tune_data.csv # Dados preparados para o treino
 
