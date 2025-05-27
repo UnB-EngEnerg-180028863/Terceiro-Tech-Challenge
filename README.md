@@ -15,7 +15,7 @@ O objetivo é treinar o modelo para que, ao receber uma pergunta baseada no tít
 
 ## 🔥 Justificativa do Modelo
 
-O desafio sugere o uso de foundation models robustos como **Llama**, **Mistral** ou **BERT**.  
+O desafio sugere o uso de foundation models como **Llama**, **Mistral** ou **BERT**.  
 Contudo, devido a limitações de hardware local, o modelo utilizado foi o **DistilGPT-2**, uma versão leve e otimizada do GPT-2.
 
 Essa escolha permite realizar o fine-tuning e a geração de respostas de forma eficiente, sem comprometer a demonstração dos conceitos e práticas fundamentais do desafio.
@@ -79,4 +79,4 @@ Resposta: {content}
 
 ## 📂 Link do Repositório
 
-🔗 [Acesse o projeto no GitHub](https://github.com/UnB-EngEnerg-180028863/Terceiro-Tech-Challenge) *(substituir pelo link real)*
+🔗 [Acesse o projeto no GitHub](https://github.com/UnB-EngEnerg-180028863/Terceiro-Tech-Challenge)
