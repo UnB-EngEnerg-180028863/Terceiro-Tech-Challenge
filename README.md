@@ -25,9 +25,13 @@ Essa escolha permite realizar o fine-tuning e a geração de respostas de forma 
 ## 🗂️ Estrutura do Projeto
 
 ├── LF-Amazon-1.3M/ # Dataset (trn.json)
+
 ├── fine_tune_data.csv # Dados preparados para o treino
+
 ├── fine_tuned_model/ # Modelo treinado
+
 ├── tech_challenge.ipynb # Notebook com todo o código
+
 ├── README.md # Documentação do projeto
 
 ---
