@@ -1,7 +1,7 @@
 # 🚀 Tech Challenge - Fine-Tuning de Foundation Model
 
 **Aluno:** Vinícius Oliveira Litran Andrade  
-**Instituição:** FIAP - Pós-graduação em Inteligência Artificial  
+**Instituição:** FIAP - Pós-graduação em Inteligência Artificial  (IA para Devs)
 
 ---
 
